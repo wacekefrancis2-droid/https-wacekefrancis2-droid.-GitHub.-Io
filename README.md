@@ -43,66 +43,7 @@
 </div>
 
 <div class="section">
-    ">My GitHub Profile</a></li>
+    ">https. //wacekefrancis2-droid.io</a></li>
     </ul>
-</div> <div class="section">
-        <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
-    </div>
-</div>
-
-<div class="section">
-    <h2>What I'm Learning</h2>
-    <ul>
-        <li>Git and GitHub</li>
-        <li>[Add your own items]</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>Links</h2>
-    <ul>
-        <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
-    </ul>
-</div> field of study].
-       I'm interested in [your interests].</p>
-</div>
-
-<div class="section">
-    <h2>What I'm Learning</h2>
-    <ul>
-        <li>Git and GitHub</li>
-        <li>[Add your own items]</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>Links</h2>
-    <ul>
-        <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
-    </ul>
-</div>
-            <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
-        </ul>
-    </div>
-</div>
-
-<div class="section">
-    <h2>What I'm Learning</h2>
-    <ul>
-        <li>Git and GitHub</li>
-        <liwww.wacekefrancis2@gmail.com</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>Links</h2>
-    <ul>
-        <li><a href="http: /wacekefrancis2-droid. github.io">My GitHub Profile</a></li>
-    </ul>
-</div>
-    </div>
-</body>
-</html>
+</div> 
+<html/>.
